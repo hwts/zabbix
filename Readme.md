@@ -1,5 +1,7 @@
 Установка zabbix server с помощью bash скрипта на debian 11
+
 Даем права на исполнение
+
 ```chmod + x ./zabbix_install.sh```
 Запускаем скрипт
 ```sudo ./zabbix_install.sh```
